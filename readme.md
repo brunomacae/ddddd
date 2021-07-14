@@ -3,6 +3,6 @@
 ## Contact Us
 - Website: https://hammy.finance
 - Read More: https://docs.hammy.finance
-- Twitter: @Hammy_Fin
-- Telegram: @hammy_chat
+- Twitter: https://twitter.com/Hammy_Fin
+- Telegram: https://t.me/Hammy_Fin
 
